@@ -1,11 +1,14 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "htecs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://abhinav6174.github.io/htecs",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
