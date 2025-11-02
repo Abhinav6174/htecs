@@ -10,7 +10,7 @@ const Footer = () => {
               Hill Top Emerging Consultancy Services FZC
             </h3>
             <p className="text-sm opacity-80">
-              Your trusted partner for comprehensive financial services and business growth solutions.
+              Your trusted business consultants.
             </p>
           </div>
           

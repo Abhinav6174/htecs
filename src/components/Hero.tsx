@@ -22,7 +22,7 @@ const Hero = () => {
             >
               Your Trusted
               <span className="block bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Financial Partner
+                business consultants
               </span>
             </motion.h1>
             <motion.p
